@@ -1,9 +1,8 @@
-# 📚 Índice de Categorías
+# 📚 Índice General del Canal de YouTube BySepa
 
-Bienvenidos al repositorio de videos de **BySepa** 🎬
+Bienvenidos al canal de BySepa, el rincón más divertido, educativo y paranoico del mundo de la Ciberseguridad. Si te interesa aprender a protegerte, descubrir historias reales de hackers, entender cómo funciona un ciberataque (¡sin volarte la cabeza!), o simplemente querés disfrutar de buenas charlas con profesionales de la industria, este es tu canal.
 
-Explorá temas como hacking, privacidad, Gnu/Linux, inteligencia artificial y mucho más.
-¡No te olvides de suscribirte a nuestro canal de [YouTube](https://www.youtube.com/@BySepa)! 🚀
+👉 Suscribite para no perderte ni un byte: [BySepa en YouTube](https://www.youtube.com/BySepa)
 
 ## Categorías:
 - [Aviación](aviación.md)
