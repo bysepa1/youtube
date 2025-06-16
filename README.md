@@ -2,7 +2,7 @@
 
 Bienvenidos al canal de BySepa, el rincón más divertido, educativo y paranoico del mundo de la Ciberseguridad. Si te interesa aprender a protegerte, descubrir historias reales de hackers, entender cómo funciona un ciberataque (¡sin volarte la cabeza!), o simplemente querés disfrutar de buenas charlas con profesionales de la industria, este es tu canal.
 
-👉 Suscribite para no perderte ni un byte: [BySepa en YouTube](https://www.youtube.com/@BySepa)
+👉 Suscribite para no perderte ni un byte: <a href="https://www.youtube.com/@BySepa" target="_blank">BySepa en YouTube</a>
 
 ## Categorías:
 - [Aviación](aviación.md)
