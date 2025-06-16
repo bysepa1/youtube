@@ -190,7 +190,7 @@
 ## Charlas
 | Título | Categoría | Subcategoría | Enlace |
 |--------|-----------|--------------|--------|
-| Slyfer | Charlas | Bug Bounty | [Ver](https://www.youtube.com/watch?v=NuJbNbCc_98) 
+| Slyfer - Nos cuenta sobre su experiencia en EEUU en un evento privado de M$ | Charlas | Bug Bounty | [Ver](https://www.youtube.com/watch?v=NuJbNbCc_98) 
 | Bsides CBA - Ile Barrionuevo y Carlos Garay (Chicho) | Charlas | Conferencias | [Ver](https://www.youtube.com/watch?v=rLbyIWivyc4) 
 | Mariano Nunez fundador de Onapsis | Charlas | General | [Ver](https://www.youtube.com/watch?v=zZmgEU3pw6I) 
 | Luciano Martins | Charlas | General | [Ver](https://www.youtube.com/watch?v=ZIqyqGGa4AE) 
