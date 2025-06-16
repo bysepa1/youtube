@@ -15,3 +15,6 @@ Bienvenidos al canal de BySepa, el rincón más divertido, educativo y paranoico
 - [Lockpicking](lockpicking.md)
 - [Mundo Cripto](mundo_cripto.md)
 - [Radio](radio.md)
+
+--
+👉 Todas nuestras redes: <a href="https://www.linktr.ee/BySepa" target="_blank">BySepa</a>
