@@ -114,7 +114,7 @@
 ## Incidentes
 | Título | Categoría | Enlace |
 |--------|-----------|--------|
-| Charlamos con Santiago Serrao ? Respuesta a incidentes (IR) | IR |  | [Ver](https://www.youtube.com/watch?v=dfRdDdfoSIk) 
+| Charlamos con Santiago Serrao - Respuesta a incidentes (IR) | IR | [Ver](https://www.youtube.com/watch?v=dfRdDdfoSIk) 
 
 ## Hardware
 | Título | Categoría | Enlace |
