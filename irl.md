@@ -3,8 +3,8 @@
 | Título |  Enlace |
 |--------|---------|
 | Desde España, despues del apagon! | [Ver](https://www.youtube.com/watch?v=WHzRkciCnKc) |
-| Nuevos comienzos, temporada España |  [Ver](https://www.youtube.com/watch?v=yZkOTovrfmI) |
-| Último stream temporada Argentina | [Ver](https://www.youtube.com/watch?v=U_s2wqCNlGc) |
+| Nuevos comienzos, temporada España 2025 |  [Ver](https://www.youtube.com/watch?v=yZkOTovrfmI) |
+| Último stream temporada Argentina 2024 | [Ver](https://www.youtube.com/watch?v=U_s2wqCNlGc) |
 | Resumen IRL: Cybercirujas, Congreso policia, Halving BTC, Flisol 2024, Ekoparty 2024 y Meshtastic | [Ver](https://www.youtube.com/watch?v=FDvqnlzRzBc) |
 | Resumen 2023, todo lo que hicimos! | [Ver](https://www.youtube.com/watch?v=DqLJQOgpNhs) |
 | Resumen 2022 | [Ver](https://www.youtube.com/watch?v=bGz9nv_im1k) |
