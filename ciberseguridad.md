@@ -29,7 +29,7 @@
 | Charlamos con Turkin  Wireshark para principiantes | Charlas | Pentesting | [Ver](https://www.youtube.com/watch?v=o-0Kp7xzhMo) |
 | ¡CUIDADO! Estafas modernas y no tanto | Mantenete protegido, te decimos como! | Estafas |  | [Ver](https://www.youtube.com/watch?v=TSHSrM15CfI) |
 | Reccionando a Alerta Flipper - Telefe noticias | Hardware |  | [Ver](https://www.youtube.com/watch?v=qjPohs9t_xs) |
-| Casa Cibersegura | Stream del Pánico | Asegura tu casa, tu privacidad y tus datos! | Networking |  | [Ver](https://www.youtube.com/watch?v=8-pc1LCCa9A) |
+| Casa Cibersegura - Stream del Pánico - Asegura tu casa, tu privacidad y tus datos! | Networking |  | [Ver](https://www.youtube.com/watch?v=8-pc1LCCa9A) |
 | No caigas en las trampas, aprende a cuidarte de los Engaños Digitales - Phishing V.2024 | Phishing |  | [Ver](https://www.youtube.com/watch?v=c-Lt1s7DDo4) |
 | Charlamos con Dan Borgogno - Hacking Bluetooth | Charlas | Pentesting | [Ver](https://www.youtube.com/watch?v=d9EfvekIS3Y) |
 | Conceptos básicos de la Ciberseguridad (para mi abuelita) | Principiantes |  | [Ver](https://www.youtube.com/watch?v=3Izoz-0Q6N4) |
