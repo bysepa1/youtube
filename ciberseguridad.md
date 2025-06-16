@@ -20,7 +20,7 @@
 - [Ekoparty](#Ekoparty)
 - [Donde aprender](#Donde-aprender)
 - [Confesiones de Hackers](#Confesiones-de-Hackers)
-- [Concientización](#Concientizacion)
+- [Concientización](#Concientización)
 - [Charlas](#Charlas)
 
 # Categorías
