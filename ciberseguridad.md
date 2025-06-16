@@ -165,7 +165,7 @@
 | Novedades Ekoparty 2022 | Ekoparty | [Ver](https://www.youtube.com/watch?v=5j4unYeZrTY) 
 | Ekoparty 2022 - Gran notición! | Ekoparty | [Ver](https://www.youtube.com/watch?v=rTjDhsYZeVw)
 
-## Donde
+## Donde aprender
 | Título | Categoría | Enlace |
 |--------|-----------|--------|
 | Certificate como Hacker, certificaciones de Ciberseguridad... para el n00b como para el pr0 | Donde aprender | [Ver](https://www.youtube.com/watch?v=KOvVHxKMzyw) 
