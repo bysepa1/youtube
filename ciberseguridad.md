@@ -1,166 +1,170 @@
 # Ciberseguridad
 
 ## Reacciones
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Reaccionamos a perdida de Bitcoins y Skins de CS de Coscu | Reacciones |  | [Ver](https://www.youtube.com/watch?v=MXGLguejQHA) 
-| Reaccionado a Policias en Acción - Engaños Digitales | Reacciones |  | [Ver](https://www.youtube.com/watch?v=_1WS4OpG_nY) 
-| Reaccionado a SupraPixel - KeePass | Reacciones |  | [Ver](https://www.youtube.com/watch?v=33z4se5pvds) 
-| Ciberataques más famosos | Reacciones |  | [Ver](https://www.youtube.com/watch?v=azjt8zfi9G8) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Reaccionamos a perdida de Bitcoins y Skins de CS de Coscu | Reacciones | [Ver](https://www.youtube.com/watch?v=MXGLguejQHA) 
+| Reaccionado a Policias en Acción - Engaños Digitales | Reacciones | [Ver](https://www.youtube.com/watch?v=_1WS4OpG_nY) 
+| Reaccionado a SupraPixel - KeePass | Reacciones | [Ver](https://www.youtube.com/watch?v=33z4se5pvds) 
+
+## Historia del H4ck1ng
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Ciberataques más famosos | Historia | [Ver](https://www.youtube.com/watch?v=azjt8zfi9G8) 
 
 ## Privacidad
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Privacidad, la posta! ¿Cuánto cuesta? | Privacidad |  | [Ver](https://www.youtube.com/watch?v=tn15j_kS4HA) 
-| Seguimiento de usuarios en internet | Privacidad |  | [Ver](https://www.youtube.com/watch?v=Pz4g29uQuAo) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Privacidad, la posta! ¿Cuánto cuesta? | Privacidad | [Ver](https://www.youtube.com/watch?v=tn15j_kS4HA) 
+| Seguimiento de usuarios en internet | Privacidad | [Ver](https://www.youtube.com/watch?v=Pz4g29uQuAo) 
 
 ## Principiantes
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Ataque A La Cadena De Suministros | Principiantes |  | [Ver](https://www.youtube.com/watch?v=iReZeR0tXAE) 
-| Conceptos, tools y OSs para convertirte en Hacker | Principiantes |  | [Ver](https://www.youtube.com/watch?v=Hr5TrqsiK34) 
-| Lo que necesitas aprender antes de empezar en Ciberseguridad y convertirte en un verdadero hacker! | Principiantes |  | [Ver](https://www.youtube.com/watch?v=-TqvyrDmstQ) 
-| Como comenzar en Ciberseguridad, se un verdadero Hacker - v.2025 | Principiantes |  | [Ver](https://www.youtube.com/watch?v=42giBe63ZzU) 
-| Conceptos básicos de la Ciberseguridad (para mi abuelita) | Principiantes |  | [Ver](https://www.youtube.com/watch?v=3Izoz-0Q6N4) 
-| Todo lo que necesitas saber de Malware | Principiantes |  | [Ver](https://www.youtube.com/watch?v=40NZ43S1HAQ) 
-| Cuidate de las vulnerabilidades... ¿que son? | Principiantes |  | [Ver](https://www.youtube.com/watch?v=6A-QxgwvzOI) 
-| Hackeando Tu Curriculum (CV) | Principiantes |  | [Ver](https://www.youtube.com/watch?v=iLKqCUuUZmU) 
-| Autenticación, Robo de Whatsapps y Stealers | Principiantes |  | [Ver](https://www.youtube.com/watch?v=ACZgi8NvQSc) 
-| Troyanos Stealers (Infostealers) | Principiantes |  | [Ver](https://www.youtube.com/watch?v=U0lMTZB4Jjs) 
-| Metodos de Autenticación seguros | Principiantes |  | [Ver](https://www.youtube.com/watch?v=Yh-FKH-TrBQ) 
-| Como empezar en Ciberseguridad | Principiantes |  | [Ver](https://www.youtube.com/watch?v=UT5NWnuWmSk) 
-| Fuga de información / Data Leak | Principiantes |  | [Ver](https://www.youtube.com/watch?v=nOu5s11Xf9A) 
-| Trabajo hacker | Principiantes |  | [Ver](https://www.youtube.com/watch?v=zew9sCZ2Ty8) 
-| Malware, Ransomware, DoS, Botnet y más... | Principiantes |  | [Ver](https://www.youtube.com/watch?v=knHSXZ50SEA) 
-| IOC, parche y distribución de parches | Principiantes |  | [Ver](https://www.youtube.com/watch?v=UyPhqKxdGlI) 
-| Como revisar si estoy entrando a un sitio seguro | Principiantes |  | [Ver](https://www.youtube.com/watch?v=_JH1Co5BnWA) 
-| Ciberataques y ciberguerra | Principiantes |  | [Ver](https://www.youtube.com/watch?v=jfLrno0QCPQ) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Ataque A La Cadena De Suministros | Principiantes | [Ver](https://www.youtube.com/watch?v=iReZeR0tXAE) 
+| Conceptos, tools y OSs para convertirte en Hacker | Principiantes | [Ver](https://www.youtube.com/watch?v=Hr5TrqsiK34) 
+| Lo que necesitas aprender antes de empezar en Ciberseguridad y convertirte en un verdadero hacker! | Principiantes | [Ver](https://www.youtube.com/watch?v=-TqvyrDmstQ) 
+| Como comenzar en Ciberseguridad, se un verdadero Hacker - v.2025 | Principiantes | [Ver](https://www.youtube.com/watch?v=42giBe63ZzU) 
+| Conceptos básicos de la Ciberseguridad (para mi abuelita) | Principiantes | [Ver](https://www.youtube.com/watch?v=3Izoz-0Q6N4) 
+| Todo lo que necesitas saber de Malware | Principiantes | [Ver](https://www.youtube.com/watch?v=40NZ43S1HAQ) 
+| Cuidate de las vulnerabilidades... ¿que son? | Principiantes | [Ver](https://www.youtube.com/watch?v=6A-QxgwvzOI) 
+| Hackeando Tu Curriculum (CV) | Principiantes | [Ver](https://www.youtube.com/watch?v=iLKqCUuUZmU) 
+| Autenticación, Robo de Whatsapps y Stealers | Principiantes | [Ver](https://www.youtube.com/watch?v=ACZgi8NvQSc) 
+| Troyanos Stealers (Infostealers) | Principiantes | [Ver](https://www.youtube.com/watch?v=U0lMTZB4Jjs) 
+| Metodos de Autenticación seguros | Principiantes | [Ver](https://www.youtube.com/watch?v=Yh-FKH-TrBQ) 
+| Como empezar en Ciberseguridad | Principiantes | [Ver](https://www.youtube.com/watch?v=UT5NWnuWmSk) 
+| Fuga de información / Data Leak | Principiantes | [Ver](https://www.youtube.com/watch?v=nOu5s11Xf9A) 
+| Trabajo hacker | Principiantes | [Ver](https://www.youtube.com/watch?v=zew9sCZ2Ty8) 
+| Malware, Ransomware, DoS, Botnet y más... | Principiantes | [Ver](https://www.youtube.com/watch?v=knHSXZ50SEA) 
+| IOC, parche y distribución de parches | Principiantes | [Ver](https://www.youtube.com/watch?v=UyPhqKxdGlI) 
+| Como revisar si estoy entrando a un sitio seguro | Principiantes | [Ver](https://www.youtube.com/watch?v=_JH1Co5BnWA) 
+| Ciberataques y ciberguerra | Principiantes | [Ver](https://www.youtube.com/watch?v=jfLrno0QCPQ) 
 
 ## Phishing
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| No caigas en las trampas, aprende a cuidarte de los Engaños Digitales - Phishing V.2024 | Phishing |  | [Ver](https://www.youtube.com/watch?v=c-Lt1s7DDo4) 
-| Compramos entradas para Taylor Swift - Analisis de Phishing | Phishing |  | [Ver](https://www.youtube.com/watch?v=r9lAsk5Rpy8) 
-| Test de Phishing | Phishing |  | [Ver](https://www.youtube.com/watch?v=Ut4P0wYgR3s) 
-| Phishing v2023 | Phishing |  | [Ver](https://www.youtube.com/watch?v=aZ2gCQbyDWY) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| No caigas en las trampas, aprende a cuidarte de los Engaños Digitales - Phishing V.2024 | Phishing | [Ver](https://www.youtube.com/watch?v=c-Lt1s7DDo4) 
+| Compramos entradas para Taylor Swift - Analisis de Phishing | Phishing | [Ver](https://www.youtube.com/watch?v=r9lAsk5Rpy8) 
+| Test de Phishing | Phishing | [Ver](https://www.youtube.com/watch?v=Ut4P0wYgR3s) 
+| Phishing v2023 | Phishing | [Ver](https://www.youtube.com/watch?v=aZ2gCQbyDWY) 
 
 ## Pentesting
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Inciarse en el Pentesting Web, desde 0! | Pentesting |  | [Ver](https://www.youtube.com/watch?v=uM37ZLW5DwA) 
-| Como empezar en Pentesting | Pentesting |  | [Ver](https://www.youtube.com/watch?v=iN20KoZmMAI) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Inciarse en el Pentesting Web, desde 0! | Pentesting | [Ver](https://www.youtube.com/watch?v=uM37ZLW5DwA) 
+| Como empezar en Pentesting | Pentesting | [Ver](https://www.youtube.com/watch?v=iN20KoZmMAI) 
 
 ## Password Manager
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Que no te roben tus contraseñas - Instalación de KeepassXC - Ep. 3/3 | Password Manager |  | [Ver](https://www.youtube.com/watch?v=NEv6sqVigW8) 
-| Que no te roben tus contraseñas - Teoría de Gestores de Contraseña - Ep. 2/3 | Password Manager |  | [Ver](https://www.youtube.com/watch?v=9DDqmzVBSx4) 
-| Que no te roben tus contraseñas - Hace de tu contraseña un Hulk - Ep. 1/3 | Password Manager |  | [Ver](https://www.youtube.com/watch?v=rWvgAZSaiQo) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Que no te roben tus contraseñas - Instalación de KeepassXC - Ep. 3/3 | Password Manager | [Ver](https://www.youtube.com/watch?v=NEv6sqVigW8) 
+| Que no te roben tus contraseñas - Teoría de Gestores de Contraseña - Ep. 2/3 | Password Manager | [Ver](https://www.youtube.com/watch?v=9DDqmzVBSx4) 
+| Que no te roben tus contraseñas - Hace de tu contraseña un Hulk - Ep. 1/3 | Password Manager | [Ver](https://www.youtube.com/watch?v=rWvgAZSaiQo) 
 
 ## Noticias
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Noticias de Ciberseguridad, hoy tenemos de todooooooo.? | Noticias |  | [Ver](https://www.youtube.com/watch?v=w7W1tQvQ77Y) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Noticias de Ciberseguridad, hoy tenemos de todooooooo.? | Noticias | [Ver](https://www.youtube.com/watch?v=w7W1tQvQ77Y) 
 
 ## Networking
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Casa Cibersegura - Stream del Pánico - Asegura tu casa, tu privacidad y tus datos! | Networking |  | [Ver](https://www.youtube.com/watch?v=8-pc1LCCa9A) 
-| Asegura la red de tu casa de verdad! Segmentación de red hogareña | Networking |  | [Ver](https://www.youtube.com/watch?v=91ZNqEGe1Hw) 
-| Diseño de seguridad de redes v2024 | Networking |  | [Ver](https://www.youtube.com/watch?v=kRLnOlzj8hE) 
-| Explicando segmentación de Red | Networking |  | [Ver](https://www.youtube.com/watch?v=VVQ5n-UvEiQ) 
-| Diferencia entre una VPN y un sitio HTTPS con M$ Paint | Networking |  | [Ver](https://www.youtube.com/watch?v=5tu0WLju_zI) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Casa Cibersegura - Stream del Pánico - Asegura tu casa, tu privacidad y tus datos! | Networking | [Ver](https://www.youtube.com/watch?v=8-pc1LCCa9A) 
+| Asegura la red de tu casa de verdad! Segmentación de red hogareña | Networking | [Ver](https://www.youtube.com/watch?v=91ZNqEGe1Hw) 
+| Diseño de seguridad de redes v2024 | Networking | [Ver](https://www.youtube.com/watch?v=kRLnOlzj8hE) 
+| Explicando segmentación de Red | Networking | [Ver](https://www.youtube.com/watch?v=VVQ5n-UvEiQ) 
+| Diferencia entre una VPN y un sitio HTTPS con M$ Paint | Networking | [Ver](https://www.youtube.com/watch?v=5tu0WLju_zI) 
 
 ## Estafas
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| ¡CUIDADO! Estafas modernas y no tanto | Mantenete protegido, te decimos como! | Estafas | [Ver](https://www.youtube.com/watch?v=TSHSrM15CfI) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| ¡CUIDADO! Estafas modernas y no tanto - Mantenete protegido, te decimos como! | Estafas | [Ver](https://www.youtube.com/watch?v=TSHSrM15CfI) 
 
 ## Laboratorios
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Armando de laboratorio para explotar RCE y realizar escalamiento de privilegios con Gnu_Linux Apache | Laboratorio |  | [Ver](https://www.youtube.com/watch?v=XH0GK0UgYNk) 
-| Explotando vulnerabilidad y escalamiento de privilegios en menos de 12 minutos | Laboratorio |  | [Ver](https://www.youtube.com/watch?v=D15PK7OUHdI) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Armando de laboratorio para explotar RCE y realizar escalamiento de privilegios con Gnu_Linux Apache | Laboratorio | [Ver](https://www.youtube.com/watch?v=XH0GK0UgYNk) 
+| Explotando vulnerabilidad y escalamiento de privilegios en menos de 12 minutos | Laboratorio | [Ver](https://www.youtube.com/watch?v=D15PK7OUHdI) 
 
 ## Incidentes
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
 | Charlamos con Santiago Serrao ? Respuesta a incidentes (IR) | IR |  | [Ver](https://www.youtube.com/watch?v=dfRdDdfoSIk) 
 
 ## Hardware
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Juguetes para Hackers v2025 | Hardware |  | [Ver](https://www.youtube.com/watch?v=aDvfu_Nt9_Y) 
-| La computadora HACKER de 2025 | Hardware |  | [Ver](https://www.youtube.com/watch?v=oHydBXFjJEQ) 
-| Reccionando a Alerta Flipper - Telefe noticias | Hardware |  | [Ver](https://www.youtube.com/watch?v=qjPohs9t_xs) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Juguetes para Hackers v2025 | Hardware | [Ver](https://www.youtube.com/watch?v=aDvfu_Nt9_Y) 
+| La computadora HACKER de 2025 | Hardware | [Ver](https://www.youtube.com/watch?v=oHydBXFjJEQ) 
+| Reccionando a Alerta Flipper - Telefe noticias | Hardware | [Ver](https://www.youtube.com/watch?v=qjPohs9t_xs) 
 
 ## Hardening
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Llevando tu sistema operativo al gimnasio (Práctica) - Ep. 2/2 | Hardening |  | [Ver](https://www.youtube.com/watch?v=3ZBx4fn0KdY) 
-| Llevando tu sistema operativo al gimnasio (Teoría) - Ep. 1/2 | Hardening |  | [Ver](https://www.youtube.com/watch?v=8CUQW6kF8Gk) 
-| Configurando navegador como una muralla - Opera - Ep. 4/4 | Hardening |  | [Ver](https://www.youtube.com/watch?v=WSn4yUjBpfs) 
-| Configurando Navegador como una muralla - Google Chrome - Ep. 3/4 | Hardening |  | [Ver](https://www.youtube.com/watch?v=XShuw4ecRcc) 
-| Configurando Navegador como una muralla - Mozilla Firefox - Ep. 2/4 | Hardening |  | [Ver](https://www.youtube.com/watch?v=JH0ok2hbF68) 
-| Configurando Navegador como una muralla - Brave - Ep. 1/4 | Hardening |  | [Ver](https://www.youtube.com/watch?v=JCFMPl-zFDE) 
-| Cuidando el celu / smartphone | Hardening |  | [Ver](https://www.youtube.com/watch?v=6_q97T6KmY0)
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Llevando tu sistema operativo al gimnasio (Práctica) - Ep. 2/2 | Hardening | [Ver](https://www.youtube.com/watch?v=3ZBx4fn0KdY) 
+| Llevando tu sistema operativo al gimnasio (Teoría) - Ep. 1/2 | Hardening | [Ver](https://www.youtube.com/watch?v=8CUQW6kF8Gk) 
+| Configurando navegador como una muralla - Opera - Ep. 4/4 | Hardening | [Ver](https://www.youtube.com/watch?v=WSn4yUjBpfs) 
+| Configurando Navegador como una muralla - Google Chrome - Ep. 3/4 | Hardening | [Ver](https://www.youtube.com/watch?v=XShuw4ecRcc) 
+| Configurando Navegador como una muralla - Mozilla Firefox - Ep. 2/4 | Hardening | [Ver](https://www.youtube.com/watch?v=JH0ok2hbF68) 
+| Configurando Navegador como una muralla - Brave - Ep. 1/4 | Hardening | [Ver](https://www.youtube.com/watch?v=JCFMPl-zFDE) 
+| Cuidando el celu / smartphone | Hardening | [Ver](https://www.youtube.com/watch?v=6_q97T6KmY0)
 
 ## Gnu/Linux
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Desde Cero: Instalación de Tools de Hacking en ArchLinux | Guía para Principiantes | Gnu_Linux | [Ver](https://www.youtube.com/watch?v=Ebrar9YcViY) 
-| Sistema Operativo de Hackers - Probamos Kali 2023.1 | Gnu_Linux |  | [Ver](https://www.youtube.com/watch?v=pgokwUNkx0I)
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Desde Cero: Instalación de Tools de Hacking en ArchLinux - Guía para Principiantes | Gnu_Linux | [Ver](https://www.youtube.com/watch?v=Ebrar9YcViY) 
+| Sistema Operativo de Hackers - Probamos Kali 2023.1 | Gnu_Linux | [Ver](https://www.youtube.com/watch?v=pgokwUNkx0I)
 
 ## General
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Noche de peliculas y series | General |  | [Ver](https://www.youtube.com/watch?v=4CaS3FIpnSU) 
-| Desmitificando a los hackers | General |  | [Ver](https://www.youtube.com/watch?v=yWZJXPn__GY) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Noche de peliculas y series | General | [Ver](https://www.youtube.com/watch?v=4CaS3FIpnSU) 
+| Desmitificando a los hackers | General | [Ver](https://www.youtube.com/watch?v=yWZJXPn__GY) 
 
 ## Emprendedores
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Hackers emprendedores Ep. 3 - Federico Kirschbaum | Emprendedores |  | [Ver](https://www.youtube.com/watch?v=I9QB__rBCUg) 
-| Hackers emprendedores Ep. 2 - Alex de Cordoba | Emprendedores |  | [Ver](https://www.youtube.com/watch?v=ayTvbJplm-s) 
-| Hackers emprendedores Ep. 1 - Fran Muller Amato | Emprendedores |  | [Ver](https://www.youtube.com/watch?v=UrZDTBR1BEE)
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Hackers emprendedores Ep. 3 - Federico Kirschbaum | Emprendedores | [Ver](https://www.youtube.com/watch?v=I9QB__rBCUg) 
+| Hackers emprendedores Ep. 2 - Alex de Cordoba | Emprendedores | [Ver](https://www.youtube.com/watch?v=ayTvbJplm-s) 
+| Hackers emprendedores Ep. 1 - Fran Muller Amato | Emprendedores | [Ver](https://www.youtube.com/watch?v=UrZDTBR1BEE)
 
 ## Ekopartyv
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Conocemos el detrás de escena de Ekoparty | Ekoparty |  | [Ver](https://www.youtube.com/watch?v=Wg2l-cpR3qY) 
-| Cierre Ekoparty 2023 | Ekoparty |  | [Ver](https://www.youtube.com/watch?v=kGnfjbj8Dco) 
-| Novedades Ekoparty 2023 | Ekoparty |  | [Ver](https://www.youtube.com/watch?v=OUC5fPOvxLg) 
-| Desde la Ekoparty 2022 - Día 3 | Ekoparty |  | [Ver](https://www.youtube.com/watch?v=etrEy1ZJ64I) 
-| Desde la Ekoparty 2022 - Día 2 | Ekoparty |  | [Ver](https://www.youtube.com/watch?v=DnsEekeVuRI) 
-| Desde la Ekoparty 2022 - Día 1 | Ekoparty |  | [Ver](https://www.youtube.com/watch?v=WUQvm1RicMQ) 
-| Novedades Ekoparty 2022 | Ekoparty |  | [Ver](https://www.youtube.com/watch?v=5j4unYeZrTY) 
-| Ekoparty 2022 - Gran notición! | Ekoparty |  | [Ver](https://www.youtube.com/watch?v=rTjDhsYZeVw)
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Conocemos el detrás de escena de Ekoparty | Ekoparty | [Ver](https://www.youtube.com/watch?v=Wg2l-cpR3qY) 
+| Cierre Ekoparty 2023 | Ekoparty | [Ver](https://www.youtube.com/watch?v=kGnfjbj8Dco) 
+| Novedades Ekoparty 2023 | Ekoparty | [Ver](https://www.youtube.com/watch?v=OUC5fPOvxLg) 
+| Desde la Ekoparty 2022 - Día 3 | Ekoparty | [Ver](https://www.youtube.com/watch?v=etrEy1ZJ64I) 
+| Desde la Ekoparty 2022 - Día 2 | Ekoparty | [Ver](https://www.youtube.com/watch?v=DnsEekeVuRI) 
+| Desde la Ekoparty 2022 - Día 1 | Ekoparty | [Ver](https://www.youtube.com/watch?v=WUQvm1RicMQ) 
+| Novedades Ekoparty 2022 | Ekoparty | [Ver](https://www.youtube.com/watch?v=5j4unYeZrTY) 
+| Ekoparty 2022 - Gran notición! | Ekoparty | [Ver](https://www.youtube.com/watch?v=rTjDhsYZeVw)
 
 ## Donde
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Certificate como Hacker, certificaciones de Ciberseguridad... para el n00b como para el pr0 | Donde aprender |  | [Ver](https://www.youtube.com/watch?v=KOvVHxKMzyw) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Certificate como Hacker, certificaciones de Ciberseguridad... para el n00b como para el pr0 | Donde aprender | [Ver](https://www.youtube.com/watch?v=KOvVHxKMzyw) 
 
 ## Confesiones de Hackers
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Confesiones de un hacker Ep. 3 - Francisco Amato | Confesiones de un Hacker |  | [Ver](https://www.youtube.com/watch?v=07xcR8F1FL8) 
-| Confesiones de un hacker Ep. 2 - Braian Arroyo | Confesiones de un Hacker |  | [Ver](https://www.youtube.com/watch?v=vZUJPWt_g4o) 
-| Confesiones de un hacker Ep. 1 - Emiliano Zarate | Confesiones de un Hacker |  | [Ver](https://www.youtube.com/watch?v=MYKTGkl7H1w) 
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Confesiones de un hacker Ep. 3 - Francisco Amato | Confesiones de un Hacker | [Ver](https://www.youtube.com/watch?v=07xcR8F1FL8) 
+| Confesiones de un hacker Ep. 2 - Braian Arroyo | Confesiones de un Hacker | [Ver](https://www.youtube.com/watch?v=vZUJPWt_g4o) 
+| Confesiones de un hacker Ep. 1 - Emiliano Zarate | Confesiones de un Hacker | [Ver](https://www.youtube.com/watch?v=MYKTGkl7H1w) 
 
 ## Concientización
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
-| Los misterios de internet: te enseñamos como navegar por la DarkWeb y que es! | Concientización |  | [Ver](https://www.youtube.com/watch?v=pWPF029LjtM) 
-| Las Red Flags de la Ciberseguridad | Concientización |  | [Ver](https://www.youtube.com/watch?v=udvicMJLAj4) 
-| Reaccionando a publicidades | Concientización |  | [Ver](https://www.youtube.com/watch?v=7UMUBUsHHeo) 
-| Robo de cuentas de Whatsapp | Concientización |  | [Ver](https://www.youtube.com/watch?v=k4e4652I2pc) 
-| Internet / Deep y Dark Web | Concientización |  | [Ver](https://www.youtube.com/watch?v=PNH0UitW-Bs) 
-| Ataques con QR y NFC | Concientización |  | [Ver](https://www.youtube.com/watch?v=7BZVbDhetyA)
+| Título | Categoría | Enlace |
+|--------|-----------|--------|
+| Los misterios de internet: te enseñamos como navegar por la DarkWeb y que es! | Concientización | [Ver](https://www.youtube.com/watch?v=pWPF029LjtM) 
+| Las Red Flags de la Ciberseguridad | Concientización | [Ver](https://www.youtube.com/watch?v=udvicMJLAj4) 
+| Reaccionando a publicidades | Concientización | [Ver](https://www.youtube.com/watch?v=7UMUBUsHHeo) 
+| Robo de cuentas de Whatsapp | Concientización | [Ver](https://www.youtube.com/watch?v=k4e4652I2pc) 
+| Internet / Deep y Dark Web | Concientización | [Ver](https://www.youtube.com/watch?v=PNH0UitW-Bs) 
+| Ataques con QR y NFC | Concientización | [Ver](https://www.youtube.com/watch?v=7BZVbDhetyA)
 
 ## Charlas
-| Título | Subcategoría 1 | Subcategoría 2 | Enlace |
-|--------|----------------|----------------|--------|
+| Título | Categoría | Subcategoría | Enlace |
+|--------|-----------|--------------|--------|
 | Charlamos con Slyfer | Charlas | Bug Bounty | [Ver](https://www.youtube.com/watch?v=NuJbNbCc_98) 
 | Bsides CBA ? Ile Barrionuevo y Carlos Garay (Chicho) | Charlas | Conferencias | [Ver](https://www.youtube.com/watch?v=rLbyIWivyc4) 
 | Charlamosmos con Mariano Nunez fundador de Onapsis | Charlas | General | [Ver](https://www.youtube.com/watch?v=zZmgEU3pw6I) 
