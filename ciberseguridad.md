@@ -18,7 +18,7 @@
 - [General](#General)
 - [Emprendedores](#Emprendedores)
 - [Ekoparty](#Ekoparty)
-- [Donde aprender](#Donde-aprender]
+- [Donde aprender](#Donde-aprender)
 - [Confesiones de Hackers](#Confesiones-de-Hackers)
 - [Concientización](#Concientizacion)
 - [Charlas](#Charlas)
